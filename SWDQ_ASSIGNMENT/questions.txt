@@ -1,0 +1,75 @@
+What does UML stand for?
+a.Universal Modelling Language
+b.Unified Modelling Language
+c.Universal Marketing Limits
+a
+What does SRS Document stand for?
+a.Software Revolution Study
+b.Software Requirements Specification
+c.Software Relative Studies
+b
+The UML was originally designed by the Three Amigos at Rational Corp.
+a.True
+b.False
+c.Both
+a
+What does the RUP stand for?
+a.Rational Unique Partition
+b.Rotational Unified Principles
+c.Rational Unified Process
+c
+An actor is someone who can initiate a Use Case.
+a.True
+b.False
+c.Both
+a
+What does LSP stand for?
+a.Liskov Substitution Principle
+b.Lowered Software Partitions
+c.Lajinski Software Programming
+a
+When testing a beta release is rarely required.
+a.True
+b.False
+c.Both
+b
+What does OCP stand for?
+a.Open Closed Principle
+b.Object Creation Process
+c.Observation Closed Programming
+a
+The Software Design and Quality was implemented by Intel.
+a.True
+b.False
+c.Both
+b
+UML is used exclusively for programming with C++.
+a.True
+b.False
+c.Both
+b
+The Methods of an object are managed from the Class.
+a.True
+b.False
+c.Both
+a
+Which comes first between Analyse and Design?
+a.Design
+b.Analyse
+c.Both
+b
+What does OMG stand for in standards?
+a.Oh My God
+b.Object Management Group
+c.Objective Media Grasp
+b
+Github is used for people to build software privately without having any collaboration.
+a.True
+b.False
+c.Both
+b
+Which is the a declarations of class?
+a.Members
+b.Access
+c.Neither
+a

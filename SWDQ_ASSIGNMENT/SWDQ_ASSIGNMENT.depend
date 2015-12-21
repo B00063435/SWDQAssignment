@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1450705752 source:c:\users\admin\desktop\swdq_assignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1450643754 source:c:\users\kevin_000\desktop\swdq_assignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"QUIZ.h"
+
+1450641427 c:\users\kevin_000\desktop\swdq_assignment\quiz.h
+	<iostream>
+	<string>
+
+1450704812 c:\users\admin\desktop\swdq_assignment\quiz.h
+	<iostream>
+	<string>
+
